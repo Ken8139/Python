@@ -4,11 +4,11 @@ Version: 1.0
 Python program to get the student details
 '''
 import math
-number=int(input("Enter a number"))
+number=int(input("Enter a number:"))
 sqrt=math.sqrt(number)
 factorial=math.factorial(number)
 raised=math.pow(number,2)
-print("Square root of 5:",sqrt)
-print("Factorial of 5:",factorial)
+print("Square root of:",sqrt)
+print("Factorial of:",factorial)
 print("Raised to power 2:",raised)
 
