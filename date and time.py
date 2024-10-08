@@ -1,3 +1,9 @@
+'''Author: kenaz mathukutty
+Date: 08/10/2024
+Version: 1.0
+Python program to get the student details
+'''
+
 from datetime import datetime
 current_time=datetime.now()
 print(current_time)
