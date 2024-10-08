@@ -1,3 +1,9 @@
+''Author: kenaz mathukutty
+Date: 08/10/2024
+Version: 1.0
+Python program to get the student details
+'''
+
 numb1=int(input("enter first number:"))
 numb2=int(input("enter second number:"))
 numb3=int(input("enter thrid number:"))
