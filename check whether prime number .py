@@ -1,7 +1,7 @@
 '''
 Python Lab
 Author=Kenaz mathukutty
-Date=15/10/2024
+Date=29/10/2024
 python program
 '''
 
