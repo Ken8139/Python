@@ -1,5 +1,5 @@
 '''Author: kenaz mathukutty
-Date: 088/10/2024
+Date: 08/10/2024
 Version: 1.0
 Python program to get the student details
 '''
