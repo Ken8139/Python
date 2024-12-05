@@ -1,3 +1,7 @@
+'''
+Python program 
+Author: kenaz mathukutty 
+Created: 19/11/2024'''
 employ=[
     ("jojo","manager",10101010.000),
     ("abek","asistant manager",1110101.000),
